@@ -37,7 +37,7 @@ JsUser.email = "vivek@new.com"
 JsUser.email = "vivek@chatgpt.com"   // not change or over write bcz of freez the JsUser 
 // console.log(JsUser);
 
-JsUser.greeting = function(){
+JsUser.greeting = function(){             // object letrial 
     console.log(" Hello JS User ");
     
 }
